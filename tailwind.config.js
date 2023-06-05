@@ -2,7 +2,28 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        Poppins: ["Poppins", "sans-serif"],
+      },
+      colors: {
+        "off-white": "hsl(0, 0%, 94%)",
+        "light-grey": "hsl(0, 0%, 86%)",
+        "smokey-grey": "hsl(0, 1%, 44%)",
+        "off-black": "hsl(0, 0%, 8%)",
+        purple: "hsl(259, 100%, 65%)",
+        "light-red": "hsl(0, 100%, 67%)",
+      },
+      margin: {
+        22: "5.5rem",
+      },
+      height: {
+        18: "4.5rem",
+      },
+      screens: {
+        slg: "840px",
+      },
+    },
   },
   plugins: [],
 };

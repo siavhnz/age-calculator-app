@@ -48,6 +48,8 @@ Users should be able to:
 
 - Prepare Project (Download assets, Install Vite, Install TailwindCss, Initialize git, ...)
 - Create Age Calculator Component
+  - Create & style component
+  - Work on functionality
 - Publish
 
 ### Work Time
