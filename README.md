@@ -11,9 +11,6 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Work time](#work-time)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -36,13 +33,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/age-calculator-app-UfFNvVZ2lX)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://age-calculator-app-bmm.pages.dev)
 
 ## My process
 
@@ -54,18 +51,12 @@ Users should be able to:
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/647e3eb994f4c64acab5153b)
 
 ### Built with
 
 - React
 - TailwindCss
-
-### What I learned
-
-### Continued development
-
-### Useful resources
 
 ## Author
 
