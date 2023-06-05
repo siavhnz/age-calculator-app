@@ -34,6 +34,11 @@ const AgeCalculator = () => {
         month = 12 + month;
       }
 
+      if (month > 11) {
+        month = 0;
+        year++;
+      }
+
       if (year < 0 || year === 0) {
         year = 0;
       }

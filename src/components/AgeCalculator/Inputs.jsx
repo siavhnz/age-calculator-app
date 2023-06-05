@@ -55,6 +55,7 @@ const Inputs = ({ onCalculteAge }) => {
           max={currentYear}
           ref={yearInput}
           error={error && error.year}
+          onChange={handleClick}
         />
       </div>
       <div className="relative h-16 mt-8 slg:h-24 slg:mt-0">
